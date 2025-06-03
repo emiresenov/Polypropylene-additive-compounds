@@ -1,0 +1,1 @@
+Manual extration of PP data from paper [Prediction of dielectric constant and loss for some polypropylene - additive compounds](https://www.ntnu.no/ojs/index.php/nordis/article/view/2361) using [automeris.io](https://automeris.io/).
